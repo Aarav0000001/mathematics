@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing
+}
+
+body{
+align-items:center;
+background-color: #1c1c1c;
+   color:#000;
+   
+}
+
+header{
+    width:105%;
+    background-color: #000;
+    color:#fff;
+    
+    height: 10%;
+}
+
+#menuicon{
+background-color: #000;
+margin:8px 0 0 8px;
+}
+#row{
+    display:flex;
+    }
+    
+#column{
+   width: 50%;
+      padding:10px; 
+     }
+     
+   columnb{
+    width:50%;
+    margin: 30px 0 0 0;
+    padding:10px;
+}
+#circlec{
+
+margin:30px 0 30px 30px;
+width:40vw;
+height: 30vh;
+background-color: red;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#square{
+    margin:30px 0 0 30px;
+width:40vw;
+height: 30vh;
+background-color: blue;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#triangle{
+    margin:30px 0 0 30px;
+width:40vw;
+height: 30vh;
+background-color: yellow;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#rectangle{
+    margin:40px 0 0 30px;
+width:40vw;
+height: 30vh;
+background-color: green;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#rhombus{
+    margin:30px 0 0 30px;
+width:40vw;
+height: 30vh;
+background-color: cyan;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#parallelogram{
+    margin:30px 0 0 30px;
+width:40vw;
+height: 30vh;
+background-color: pink;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
